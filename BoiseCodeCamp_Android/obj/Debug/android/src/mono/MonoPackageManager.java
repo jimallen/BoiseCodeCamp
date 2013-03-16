@@ -67,7 +67,7 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		"BoiseCodeCamp_Android.dll",
-		"MyExternalLibrary_Android.dll",
+		"MyExtenralLibrary_Android.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

@@ -1,2 +1,2 @@
 \\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp_Android\bin\Debug\BoiseCodeCamp_Android.dll
-\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp_Android\bin\Debug\MyExternalLibrary_Android.dll
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp_Android\bin\Debug\MyExtenralLibrary_Android.dll

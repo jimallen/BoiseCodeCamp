@@ -1,0 +1,11 @@
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\MyExtenralLibrary_Android\bin\Debug\MyExtenralLibrary_Android.dll
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\MyExtenralLibrary_Android\bin\Debug\MyExtenralLibrary_Android.pdb
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\MyExtenralLibrary_Android\bin\Debug\MyExtenralLibrary_Android.dll.mdb
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\MyExtenralLibrary_Android\bin\Debug\MyExtenralLibrary_Android.MyExtenralLibrary_Android.apk
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\MyExtenralLibrary_Android\bin\Debug\MyExtenralLibrary_Android.MyExtenralLibrary_Android-Signed.apk
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\MyExtenralLibrary_Android\obj\Debug\MyExtenralLibrary_Android.dll
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\MyExtenralLibrary_Android\obj\Debug\MyExtenralLibrary_Android.pdb
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\MyExtenralLibrary_Android\obj\Debug\android\bin\MyExtenralLibrary_Android.MyExtenralLibrary_Android.apk
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\MyExtenralLibrary_Android\obj\Debug\res\values\strings.xml
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\MyExtenralLibrary_Android\obj\Debug\R.cs.flag
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\MyExtenralLibrary_Android\obj\Debug\uploadflags.txt

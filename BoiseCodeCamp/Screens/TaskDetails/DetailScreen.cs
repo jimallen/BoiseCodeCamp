@@ -35,7 +35,7 @@ namespace BoiseCodeCamp
 			
 			this.txtName.Text = this._task.Name;
 			this.txtNotes.Text = this._task.Notes;
-			
+			this.txtDueDate.Text = this._task.DueDate.ToString ();
 
 			
 			this.txtName.ReturnKeyType = UIReturnKeyType.Next;

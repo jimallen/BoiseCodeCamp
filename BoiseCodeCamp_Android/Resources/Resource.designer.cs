@@ -26,8 +26,8 @@ namespace BoiseCodeCamp_Android
 		
 		public static void UpdateIdValues()
 		{
-			MyExternalLibrary_Android.Resource.String.ApplicationName = BoiseCodeCamp_Android.Resource.String.ApplicationName;
-			MyExternalLibrary_Android.Resource.String.Hello = BoiseCodeCamp_Android.Resource.String.Hello;
+			MyExtenralLibrary_Android.Resource.String.ApplicationName = BoiseCodeCamp_Android.Resource.String.app_name;
+			MyExtenralLibrary_Android.Resource.String.Hello = BoiseCodeCamp_Android.Resource.String.hello;
 		}
 		
 		public partial class Attribute
@@ -111,16 +111,10 @@ namespace BoiseCodeCamp_Android
 		{
 			
 			// aapt resource value: 0x7f040001
-			public const int ApplicationName = 2130968577;
+			public const int app_name = 2130968577;
 			
 			// aapt resource value: 0x7f040000
-			public const int Hello = 2130968576;
-			
-			// aapt resource value: 0x7f040003
-			public const int app_name = 2130968579;
-			
-			// aapt resource value: 0x7f040002
-			public const int hello = 2130968578;
+			public const int hello = 2130968576;
 			
 			private String()
 			{

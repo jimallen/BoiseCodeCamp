@@ -64,9 +64,9 @@
     <AndroidResource Include="Resources\layout\TaskListItem.axml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MyExternalLibrary_Android\MyExternalLibrary_Android.csproj">
-      <Project>{64166175-3534-497c-b2d5-e39942e294b8}</Project>
-      <Name>MyExternalLibrary_Android</Name>
+    <ProjectReference Include="..\MyExtenralLibrary_Android\MyExtenralLibrary_Android.csproj">
+      <Project>{862b1c29-b596-4582-a8da-76d7fdd8301e}</Project>
+      <Name>MyExtenralLibrary_Android</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

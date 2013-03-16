@@ -23,6 +23,9 @@ namespace BoiseCodeCamp
 		[Outlet]
 		MonoTouch.UIKit.UIButton btnDelete { get; set; }
 
+		[Outlet]
+		MonoTouch.UIKit.UITextField txtDueDate { get; set; }
+
 		[Action ("CancelDelete:")]
 		partial void CancelDelete (MonoTouch.Foundation.NSObject sender);
 
@@ -49,6 +52,11 @@ namespace BoiseCodeCamp
 			if (btnDelete != null) {
 				btnDelete.Dispose ();
 				btnDelete = null;
+			}
+
+			if (txtDueDate != null) {
+				txtDueDate.Dispose ();
+				txtDueDate = null;
 			}
 		}
 	}
