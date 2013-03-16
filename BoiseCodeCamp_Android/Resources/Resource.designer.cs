@@ -26,8 +26,8 @@ namespace BoiseCodeCamp_Android
 		
 		public static void UpdateIdValues()
 		{
-			ExternalLibrary_Android1.Resource.String.ApplicationName = BoiseCodeCamp_Android.Resource.String.ApplicationName;
-			ExternalLibrary_Android1.Resource.String.Hello = BoiseCodeCamp_Android.Resource.String.Hello;
+			MyExternalLibrary_Android.Resource.String.ApplicationName = BoiseCodeCamp_Android.Resource.String.ApplicationName;
+			MyExternalLibrary_Android.Resource.String.Hello = BoiseCodeCamp_Android.Resource.String.Hello;
 		}
 		
 		public partial class Attribute

@@ -14,6 +14,6 @@
 \\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp_Android\obj\Debug\res\layout\homescreen.xml
 \\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp_Android\obj\Debug\res\layout\taskdetails.xml
 \\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp_Android\obj\Debug\res\layout\tasklistitem.xml
-\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp_Android\bin\Debug\ExternalLibrary_Android1.dll
-\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp_Android\bin\Debug\ExternalLibrary_Android1.pdb
-\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp_Android\bin\Debug\ExternalLibrary_Android1.dll.mdb
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp_Android\bin\Debug\MyExternalLibrary_Android.dll
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp_Android\bin\Debug\MyExternalLibrary_Android.pdb
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp_Android\bin\Debug\MyExternalLibrary_Android.dll.mdb
