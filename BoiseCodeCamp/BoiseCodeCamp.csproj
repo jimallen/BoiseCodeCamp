@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{68B057DB-7378-4EEE-B469-90A594BBA011}</ProjectGuid>
+    <ProjectTypeGuids>{6BC8ED88-2882-458C-8E55-DFD12B67127B};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>BoiseCodeCamp</RootNamespace>
+    <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+    <AssemblyName>BoiseCodeCamp</AssemblyName>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
+    <DefineConstants>DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+    <MtouchLink>None</MtouchLink>
+    <MtouchDebug>True</MtouchDebug>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
+    <DebugType>none</DebugType>
+    <Optimize>True</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+    <MtouchLink>None</MtouchLink>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+    <MtouchDebug>True</MtouchDebug>
+    <CodesignKey>iPhone Developer</CodesignKey>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
+    <DebugType>none</DebugType>
+    <Optimize>True</Optimize>
+    <OutputPath>bin\iPhone\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+    <CodesignKey>iPhone Developer</CodesignKey>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Ad-Hoc|iPhone' ">
+    <DebugType>none</DebugType>
+    <Optimize>True</Optimize>
+    <OutputPath>bin\iPhone\Ad-Hoc</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+    <CodesignKey>iPhone Distribution</CodesignKey>
+    <BuildIpa>True</BuildIpa>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'AppStore|iPhone' ">
+    <DebugType>none</DebugType>
+    <Optimize>True</Optimize>
+    <OutputPath>bin\iPhone\AppStore</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+    <CodesignKey>iPhone Distribution</CodesignKey>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Main.cs" />
+    <Compile Include="AppDelegate.cs" />
+    <None Include="Info.plist" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TaskClickedEventArgs.cs" />
+    <Compile Include="TaskTableSource.cs" />
+    <Compile Include="Screens\TaskViewController.cs" />
+    <Compile Include="Screens\TaskViewController.designer.cs">
+      <DependentUpon>TaskViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\TaskDetails\DetailScreen.cs" />
+    <Compile Include="Screens\TaskDetails\DetailScreen.designer.cs">
+      <DependentUpon>DetailScreen.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MyViewController.cs" />
+    <BundleResource Include="Resources\Default.png" />
+    <BundleResource Include="Resources\Default%402x.png" />
+    <BundleResource Include="Resources\Default-568h%402x.png" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\BoiseCodeCamp-all-target-headers.hmap" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\BoiseCodeCamp-generated-files.hmap" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\BoiseCodeCamp-own-target-headers.hmap" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\BoiseCodeCamp-project-headers.hmap" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\BoiseCodeCamp.hmap" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphoneos\BoiseCodeCamp.build\BoiseCodeCamp-all-target-headers.hmap" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphoneos\BoiseCodeCamp.build\BoiseCodeCamp-generated-files.hmap" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphoneos\BoiseCodeCamp.build\BoiseCodeCamp-own-target-headers.hmap" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphoneos\BoiseCodeCamp.build\BoiseCodeCamp-project-headers.hmap" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphoneos\BoiseCodeCamp.build\BoiseCodeCamp.hmap" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\BoiseCodeCamp.dep" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\build-state.dat" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\Objects-normal\i386\AppDelegate-8A802C49117680FF.d" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\Objects-normal\i386\AppDelegate-8A802C49117680FF.dia" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\Objects-normal\i386\AppDelegate-8A802C49117680FF.o" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\Objects-normal\i386\BoiseCodeCamp.LinkFileList" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\Objects-normal\i386\DetailScreen-DD9BF4555298ADD2.d" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\Objects-normal\i386\DetailScreen-DD9BF4555298ADD2.dia" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\Objects-normal\i386\DetailScreen-DD9BF4555298ADD2.o" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\Objects-normal\i386\Screen-C3492C152F847CD0.d" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\Objects-normal\i386\Screen-C3492C152F847CD0.dia" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\Objects-normal\i386\Screen-C3492C152F847CD0.o" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\Objects-normal\i386\TaskViewController-176D874D6AAFBFF3.d" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\Objects-normal\i386\TaskViewController-176D874D6AAFBFF3.dia" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\Objects-normal\i386\TaskViewController-176D874D6AAFBFF3.o" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\Objects-normal\i386\UIView1-824EC3225944C7CD.d" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\Objects-normal\i386\UIView1-824EC3225944C7CD.dia" />
+    <BundleResource Include="build\BoiseCodeCamp.build\MonoTouch-iphonesimulator\BoiseCodeCamp.build\Objects-normal\i386\UIView1-824EC3225944C7CD.o" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="monotouch" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ExternalLibrary_ios\ExternalLibrary_ios.csproj">
+      <Project>{430B947D-B420-415F-AE3A-877B097F446C}</Project>
+      <Name>ExternalLibrary_ios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.MonoTouch.CSharp.targets" />
+  <ItemGroup>
+    <InterfaceDefinition Include="Screens\TaskViewController.xib" />
+    <InterfaceDefinition Include="Screens\TaskDetails\DetailScreen.xib" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+</Project>

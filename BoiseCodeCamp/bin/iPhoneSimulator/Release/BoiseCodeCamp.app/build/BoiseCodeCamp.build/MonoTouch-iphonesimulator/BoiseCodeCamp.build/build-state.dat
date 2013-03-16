@@ -1,0 +1,310 @@
+TBoiseCodeCamp
+v5
+r1
+cCheck dependencies
+cCompileC build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/UIView1-824EC3225944C7CD.o /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/UIView1.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/AppDelegate-8A802C49117680FF.o /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/TaskViewController-176D874D6AAFBFF3.o /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/TaskViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/Screen-C3492C152F847CD0.o /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Screen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/DetailScreen-DD9BF4555298ADD2.o /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/DetailScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/BoiseCodeCamp normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c000000005102E2D30000000000000110
+t1359143635
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000510B51F70000000000228FE0
+t1359696375
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000510B51F800000000003DDFA0
+t1359696376
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c00000000510B51F900000000000F9CF0
+t1359696377
+s1023216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000510B51FA0000000000AB6230
+t1359696378
+s11231792
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/AppDelegate.m
+c0000000051438EDC0000000000000144
+t1363381980
+s324
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Default-568h@2x.png
+c0000000051438C2B000000000000316B
+t1363381291
+s12651
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Default.png
+c0000000051438C2B00000000000014A1
+t1363381291
+s5281
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Default@2x.png
+c0000000051438C2B0000000000002E11
+t1363381291
+s11793
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/DetailScreen.m
+c00000000514391CE0000000000000217
+t1363382734
+s535
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Screen.m
+c000000005143863D00000000000001CD
+t1363379773
+s461
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Screens/TaskDetails/DetailScreen.xib
+c00000000514391A800000000000041EF
+t1363382696
+s16879
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Screens/TaskDetails/Screen.xib
+c0000000051438C2B0000000000004026
+t1363381291
+s16422
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Screens/TaskViewController.xib
+c0000000051438C2B0000000000001D65
+t1363381291
+s7525
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/TaskViewController.m
+c0000000051439143000000000000017B
+t1363382595
+s379
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/UIView1.m
+c0000000051429C56000000000000013C
+t1363319894
+s316
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/AppDelegate-8A802C49117680FF.o
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/BoiseCodeCamp.LinkFileList
+c000000005143922E00000000000003AB
+t1363382830
+s939
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/DetailScreen-DD9BF4555298ADD2.o
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/Screen-C3492C152F847CD0.o
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/TaskViewController-176D874D6AAFBFF3.o
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/UIView1-824EC3225944C7CD.o
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch/BoiseCodeCamp.build/StaticAnalyzer/normal/i386/AppDelegate-8A802C49117680FF.plist
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch/BoiseCodeCamp.build/StaticAnalyzer/normal/i386/DetailScreen-DD9BF4555298ADD2.plist
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch/BoiseCodeCamp.build/StaticAnalyzer/normal/i386/Screen-C3492C152F847CD0.plist
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch/BoiseCodeCamp.build/StaticAnalyzer/normal/i386/TaskViewController-176D874D6AAFBFF3.plist
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch/BoiseCodeCamp.build/StaticAnalyzer/normal/i386/UIView1-824EC3225944C7CD.plist
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app.dSYM
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/BoiseCodeCamp
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/Default.png
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/Default@2x.png
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/DetailScreen.nib
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/Screen.nib
+t2
+s0
+
+N/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/TaskViewController.nib
+t2
+s0
+
+CAnalyze /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/AppDelegate.m
+r0
+
+CAnalyze /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/DetailScreen.m
+r0
+
+CAnalyze /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Screen.m
+r0
+
+CAnalyze /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/TaskViewController.m
+r0
+
+CAnalyze /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/UIView1.m
+r0
+
+CBuild AST from /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/AppDelegate.m
+r0
+
+CBuild AST from /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/DetailScreen.m
+r0
+
+CBuild AST from /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Screen.m
+r0
+
+CBuild AST from /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/TaskViewController.m
+r0
+
+CBuild AST from /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/UIView1.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesce8a70aec9f3b641^c6fd77aec9f3b641^-544"warning: no rule to process file '$(PROJECT_DIR)/AppDelegate.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/UIView1.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/TaskViewController.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/Screen.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/DetailScreen.h' of type sourcecode.c.h for architecture i3865(21%IDEActivityLogMessage2@108"Warning: no rule to process file '$(PROJECT_DIR)/AppDelegate.h' of type sourcecode.c.h for architecture i386-385075630#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@104"Warning: no rule to process file '$(PROJECT_DIR)/UIView1.h' of type sourcecode.c.h for architecture i386-385075630#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@115"Warning: no rule to process file '$(PROJECT_DIR)/TaskViewController.h' of type sourcecode.c.h for architecture i386-385075630#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@103"Warning: no rule to process file '$(PROJECT_DIR)/Screen.h' of type sourcecode.c.h for architecture i386-385075630#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@109"Warning: no rule to process file '$(PROJECT_DIR)/DetailScreen.h' of type sourcecode.c.h for architecture i386-385075630#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#0#--18"Check dependencies36"3F463835-3315-4E33-8173-62138D829596-
+
+CCompileC build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/AppDelegate-8A802C49117680FF.o /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385075630.476328
+e385075631.073878
+r1
+xCompileC
+xbuild/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/AppDelegate-8A802C49117680FF.o
+x/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/AppDelegate.m4a467aaec9f3b641^afec12afc9f3b641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/AppDelegate.m0000000000000000^3863"CompileC build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/AppDelegate-8A802C49117680FF.o AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-generated-files.hmap -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-own-target-headers.hmap -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-all-target-headers.hmap -iquote /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-project-headers.hmap -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/DerivedSources/i386 -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/DerivedSources -F/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/AppDelegate-8A802C49117680FF.d --serialize-diagnostics /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/AppDelegate-8A802C49117680FF.dia -c /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/AppDelegate.m -o /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/AppDelegate-8A802C49117680FF.o36"89E92C5C-76A2-4EF1-8292-18A99F16C472-
+
+CCompileC build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/DetailScreen-DD9BF4555298ADD2.o /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/DetailScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385075630.476359
+e385075631.128410
+r1
+xCompileC
+xbuild/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/DetailScreen-DD9BF4555298ADD2.o
+x/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/DetailScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/DetailScreen.m9e427aaec9f3b641^dae420afc9f3b641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/DetailScreen.m0000000000000000^3869"CompileC build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/DetailScreen-DD9BF4555298ADD2.o DetailScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-generated-files.hmap -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-own-target-headers.hmap -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-all-target-headers.hmap -iquote /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-project-headers.hmap -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/DerivedSources/i386 -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/DerivedSources -F/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/DetailScreen-DD9BF4555298ADD2.d --serialize-diagnostics /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/DetailScreen-DD9BF4555298ADD2.dia -c /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/DetailScreen.m -o /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/DetailScreen-DD9BF4555298ADD2.o36"2704CE9E-A315-488A-B6CC-C79F4C881C56-
+
+CCompileC build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/Screen-C3492C152F847CD0.o /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Screen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385075630.476353
+e385075631.128403
+r1
+xCompileC
+xbuild/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/Screen-C3492C152F847CD0.o
+x/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Screen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Screen.m0b457aaec9f3b641^05df20afc9f3b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Screen.m0000000000000000^3833"CompileC build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/Screen-C3492C152F847CD0.o Screen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-generated-files.hmap -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-own-target-headers.hmap -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-all-target-headers.hmap -iquote /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-project-headers.hmap -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/DerivedSources/i386 -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/DerivedSources -F/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/Screen-C3492C152F847CD0.d --serialize-diagnostics /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/Screen-C3492C152F847CD0.dia -c /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Screen.m -o /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/Screen-C3492C152F847CD0.o36"698A2D0F-4B74-4176-A209-0B7323E0E900-
+
+CCompileC build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/TaskViewController-176D874D6AAFBFF3.o /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/TaskViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385075630.476334
+e385075631.128395
+r1
+xCompileC
+xbuild/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/TaskViewController-176D874D6AAFBFF3.o
+x/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/TaskViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/TaskViewController.mc0427aaec9f3b641^d2e220afc9f3b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/TaskViewController.m0000000000000000^3905"CompileC build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/TaskViewController-176D874D6AAFBFF3.o TaskViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-generated-files.hmap -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-own-target-headers.hmap -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-all-target-headers.hmap -iquote /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-project-headers.hmap -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/DerivedSources/i386 -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/DerivedSources -F/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/TaskViewController-176D874D6AAFBFF3.d --serialize-diagnostics /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/TaskViewController-176D874D6AAFBFF3.dia -c /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/TaskViewController.m -o /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/TaskViewController-176D874D6AAFBFF3.o36"F0911ECD-643F-4A86-8802-82B5981EEAC9-
+
+CCompileC build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/UIView1-824EC3225944C7CD.o /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/UIView1.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385075630.476312
+e385075631.073863
+r1
+xCompileC
+xbuild/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/UIView1-824EC3225944C7CD.o
+x/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/UIView1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/UIView1.m0f447aaec9f3b641^68e912afc9f3b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/UIView1.m0000000000000000^3839"CompileC build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/UIView1-824EC3225944C7CD.o UIView1.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-generated-files.hmap -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-own-target-headers.hmap -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-all-target-headers.hmap -iquote /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/BoiseCodeCamp-project-headers.hmap -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/DerivedSources/i386 -I/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/DerivedSources -F/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/UIView1-824EC3225944C7CD.d --serialize-diagnostics /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/UIView1-824EC3225944C7CD.dia -c /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/UIView1.m -o /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/UIView1-824EC3225944C7CD.o36"C2349876-0C32-406D-A709-544E2A2F73C6-
+
+CCompileXIB /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Screens/TaskDetails/DetailScreen.xib
+r0
+
+CCompileXIB /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Screens/TaskDetails/Screen.xib
+r0
+
+CCompileXIB /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/Screens/TaskViewController.xib
+r0
+
+CCpResource Default-568h@2x.png build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/Default-568h@2x.png
+r0
+
+CCpResource Default.png build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/Default.png
+r0
+
+CCpResource Default@2x.png build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/Default@2x.png
+r0
+
+CGenerateDSYMFile /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app.dSYM /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/BoiseCodeCamp
+r0
+
+CLd /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/BoiseCodeCamp normal i386
+s385075631.138447
+e385075631.279464
+r0
+xLd
+x/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/BoiseCodeCamp
+xnormal
+xi386
+oUndefined symbols for architecture i386:
+o  "_main", referenced from:
+o      start in crt1.o
+old: symbol(s) not found for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Link /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/BoiseCodeCamp2b8623afc9f3b641^988847afc9f3b641^-217"Undefined symbols for architecture i386:  "_main", referenced from:      start in crt1.old: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)4(21%IDEActivityLogMessage2@25""_main", referenced from:-385075631#41#28#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@15"Start in crt1.o-385075631#69#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41"Symbol(s) not found for architecture i386-385075631#91#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-385075631#137#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#0#--1394"Ld build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/BoiseCodeCamp normal i386    cd /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator -F/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator -filelist /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/BoiseCodeCamp.build/MonoTouch-iphonesimulator/BoiseCodeCamp.build/Objects-normal/i386/BoiseCodeCamp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework MapKit -framework Foundation -framework CoreGraphics -o /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app/BoiseCodeCamp36"CDC16828-3FF7-4DB3-AC67-ACC3DCD06BCD-
+
+CTouch /Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/obj/Xcode/6/build/MonoTouch-iphonesimulator/BoiseCodeCamp.app
+r0
+

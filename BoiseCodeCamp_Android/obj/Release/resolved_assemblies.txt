@@ -1,0 +1,2 @@
+/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/bin/Release/BoiseCodeCamp_Android.dll
+/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/bin/Release/ExternalLibrary_Android_Linked.dll

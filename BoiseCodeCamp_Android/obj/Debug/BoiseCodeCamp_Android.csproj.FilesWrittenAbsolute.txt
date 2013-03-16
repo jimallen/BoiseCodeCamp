@@ -1,0 +1,14 @@
+/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/bin/Debug/BoiseCodeCamp_Android.dll.mdb
+/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/bin/Debug/BoiseCodeCamp_Android.dll
+/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/bin/Debug/BoiseCodeCamp_Android.BoiseCodeCamp_Android.apk
+/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/obj/Debug/android/bin/BoiseCodeCamp_Android.BoiseCodeCamp_Android.apk
+/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/obj/Debug/res/values/strings.xml
+/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/obj/Debug/res/drawable/icon.png
+/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/obj/Debug/res/layout/homescreen.xml
+/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/obj/Debug/res/layout/taskdetails.xml
+/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/obj/Debug/res/layout/tasklistitem.xml
+/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/obj/Debug/R.cs.flag
+/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/bin/Debug/BoiseCodeCamp_Android.BoiseCodeCamp_Android-Signed.apk
+/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/obj/Debug/uploadflags.txt
+/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/obj/Debug/BoiseCodeCamp_Android.dll
+/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/obj/Debug/BoiseCodeCamp_Android.dll.mdb

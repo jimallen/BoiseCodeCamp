@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.6.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExternalLibrary_ios/BL/Task.cs">
+    <Files>
+      <File FileName="ExternalLibrary_ios/BL/Task.cs" Line="23" Column="1" />
+      <File FileName="ExternalLibrary_ios/BL/Managers/TaskManager.cs" Line="1" Column="1" />
+      <File FileName="ExternalLibrary_ios/DL/SQLite.cs" Line="1" Column="1" />
+      <File FileName="ExternalLibrary_ios/DL/TaskDatabase.cs" Line="1" Column="1" />
+      <File FileName="ExternalLibrary_ios/DAL/TaskManager.cs" Line="1" Column="1" />
+      <File FileName="BoiseCodeCamp/TaskClickedEventArgs.cs" Line="1" Column="1" />
+      <File FileName="BoiseCodeCamp/TaskTableSource.cs" Line="1" Column="1" />
+      <File FileName="BoiseCodeCamp/Screens/TaskViewController.cs" Line="1" Column="1" />
+      <File FileName="BoiseCodeCamp/Screens/TaskDetails/DetailScreen.cs" Line="1" Column="1" />
+      <File FileName="BoiseCodeCamp/MyViewController.cs" Line="1" Column="1" />
+      <File FileName="ExternalLibrary_Android/BL/Task.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="ExternalLibrary_ios" expanded="True">
+            <Node name="BL" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jimallen/Projects/BoiseCodeCamp/ExternalLibrary_ios/BL/Managers/TaskManager.cs" line="19" />
+      <Breakpoint file="/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/Screens/TaskViewController.cs" line="90" />
+      <Breakpoint file="/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp_Android/MainActivity.cs" line="33" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BoiseCodeCamp__Android AndroidDeviceId-Debug="emulator-5554" MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+</Properties>

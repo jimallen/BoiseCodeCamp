@@ -1,0 +1,8 @@
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp\bin\iPhoneSimulator\Debug\BoiseCodeCamp.exe
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp\bin\iPhoneSimulator\Debug\BoiseCodeCamp.pdb
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp\bin\iPhoneSimulator\Debug\ExternalLibrary_ios.dll
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp\bin\iPhoneSimulator\Debug\ExternalLibrary_ios.pdb
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp\bin\iPhoneSimulator\Debug\ExternalLibrary_ios.dll.mdb
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp\obj\iPhoneSimulator\Debug\BoiseCodeCamp.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp\obj\iPhoneSimulator\Debug\BoiseCodeCamp.exe
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\BoiseCodeCamp\obj\iPhoneSimulator\Debug\BoiseCodeCamp.pdb

@@ -1,0 +1,3 @@
+BoiseCodeCamp_Android.Screens.HomeScreen;boisecodecamp_android.screens.HomeScreen
+BoiseCodeCamp_Android.Screens.TaskDetailsScreen;boisecodecamp_android.screens.TaskDetailsScreen
+BoiseCodeCamp_Android.Adapters.TaskListAdapter;boisecodecamp_android.adapters.TaskListAdapter

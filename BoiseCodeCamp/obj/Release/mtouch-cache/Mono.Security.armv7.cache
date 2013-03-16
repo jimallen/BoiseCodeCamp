@@ -1,0 +1,1 @@
+--aot=mtriple=armv7-darwin,full,static,asmonly,direct-icalls,nodebug,outfile=/Mono.Security.dll.armv7.s "/Users/jimallen/Projects/BoiseCodeCamp/BoiseCodeCamp/bin/iPhone/Release/BoiseCodeCamp.app/Mono.Security.dll"

@@ -1,0 +1,4 @@
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\ExternalLibrary_ios\bin\iPhoneSimulator\Debug\ExternalLibrary_ios.dll
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\ExternalLibrary_ios\bin\iPhoneSimulator\Debug\ExternalLibrary_ios.pdb
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\ExternalLibrary_ios\obj\iPhoneSimulator\Debug\ExternalLibrary_ios.dll
+\\vmware-host\Shared Folders\jimallen On My Mac\Projects\BoiseCodeCamp\ExternalLibrary_ios\obj\iPhoneSimulator\Debug\ExternalLibrary_ios.pdb
